@@ -1,0 +1,1 @@
+SELECT SUBSTR(CAST(PI() AS decimal(30,20)), 10, 1);
